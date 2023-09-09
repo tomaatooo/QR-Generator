@@ -1,3 +1,3 @@
 # QR-Generator
-Generate QR Code
+Generate QR Code<br>
 by ius
